@@ -10,5 +10,5 @@ The languages ​​used in this repository are and will be: *<strong>any langua
 
 ## Theoretical Architecture
 
-![Architecture](../tbot.png)
+![Architecture](https://github.com/tarbbot/.github/blob/main/tbot.png)
 
