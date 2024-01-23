@@ -7,3 +7,8 @@ The main focus of the tooling developed in this organization is to create bots i
 The main focus of this organization is to earn a large amount of money from cryptocurrency operations in the most diverse pairs and with the most varied approaches possible.
 
 The languages ​​used in this repository are and will be: *<strong>any language</strong>*, as the main focus is on the scalability, speed and performance of applications. Among the languages ​​written so far and expected for future projects are: Node.js (typescript), GoLang, Rust (future), C/C++ (future) and Terraform.
+
+## Theoretical Architecture
+
+![Architecture](../tbot.png)
+
